@@ -26,7 +26,7 @@ for your operating system. It will be built with the Python wrapping, MPI capabi
 
  * If you are using a Linux distribution, please see [the Linux part](#linux),
  * If you are using Microsoft Windows, please see [the Windows part](#windows),
- * For MacOS X, please see [the OS X part](#mac)
+ * For MacOS X, please see [the OS X part](#macos)
  * If you are using another OS, feel free to provide compilation steps.
 
 ### Linux
@@ -89,7 +89,7 @@ Double click on the paraview executable in the `/bin` directory or run in the pr
 ./bin/paraview
 ```
 
-### Mac OS X
+### MacOS 
 These instructions have worked on a mid 2023 MacMini with an M2 chipset on OS X Ventura.
 
 #### Install Homebrew
